@@ -1,0 +1,3 @@
+[submodule "gen2"]
+	path = gen2
+	url = https://github.com/Z-Wave-Me/Z-Uno-G2-Core.git
